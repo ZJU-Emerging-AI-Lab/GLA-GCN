@@ -1,7 +1,4 @@
 # GLA-GCN
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/gla-gcn-global-local-adaptive-graph/3d-human-pose-estimation-on-mpi-inf-3dhp)](https://paperswithcode.com/sota/3d-human-pose-estimation-on-mpi-inf-3dhp?p=gla-gcn-global-local-adaptive-graph)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/gla-gcn-global-local-adaptive-graph/3d-human-pose-estimation-on-humaneva-i)](https://paperswithcode.com/sota/3d-human-pose-estimation-on-humaneva-i?p=gla-gcn-global-local-adaptive-graph)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/gla-gcn-global-local-adaptive-graph/3d-human-pose-estimation-on-human36m)](https://paperswithcode.com/sota/3d-human-pose-estimation-on-human36m?p=gla-gcn-global-local-adaptive-graph)
 
 This repository holds the codebase, dataset, and models for the work:
 [**GLA-GCN: Global-local Adaptive Graph Convolutional Network for 3D Human Pose Estimation from Monocular Video**](https://openaccess.thecvf.com/content/ICCV2023/papers/Yu_GLA-GCN_Global-local_Adaptive_Graph_Convolutional_Network_for_3D_Human_Pose_ICCV_2023_paper.pdf), ICCV 2023
